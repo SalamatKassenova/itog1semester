@@ -20,5 +20,3 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
-SecondArrayWithIF(array1, array2);
-PrintArray(array2);
